@@ -1,0 +1,1 @@
+# ha5_Task_2_Structural_patterns
